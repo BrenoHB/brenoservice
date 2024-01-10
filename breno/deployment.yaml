@@ -14,7 +14,7 @@ spec:
         app: demo-ui
     spec:
       containers:
-      - image: brenobusnello/breno:7671b5cd5b1a9d922433ad8fda511d74ce7e6ae4
+      - image: brenobusnello/breno:d5fe0b2af32df1e0e4bcf8bf51bf72675f17fe28
         name: demo-ui
         ports:
         - containerPort: 80
